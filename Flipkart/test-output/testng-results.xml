@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-10T05:42:44Z" name="LoginAndLogout" finished-at="2018-10-10T05:45:19Z" duration-ms="155258">
+    <groups>
+    </groups>
+    <test started-at="2018-10-10T05:42:44Z" name="Test" finished-at="2018-10-10T05:45:19Z" duration-ms="155258">
+      <class name="homePageTestCases.Login">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:homePageTestCases.Login@55740540]" started-at="2018-10-10T05:42:44Z" name="BeforeClass" finished-at="2018-10-10T05:42:45Z" duration-ms="1790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:homePageTestCases.Login@55740540]" started-at="2018-10-10T05:42:45Z" name="beforeMethod" finished-at="2018-10-10T05:44:11Z" duration-ms="85422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickOnLoginButton()[pri:0, instance:homePageTestCases.Login@55740540]" started-at="2018-10-10T05:44:11Z" name="clickOnLoginButton" finished-at="2018-10-10T05:45:14Z" duration-ms="63226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginButton -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:homePageTestCases.Login@55740540]" started-at="2018-10-10T05:45:14Z" name="teardown" finished-at="2018-10-10T05:45:15Z" duration-ms="664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnLoginButton status=SUCCESS method=Login.clickOnLoginButton()[pri:0, instance:homePageTestCases.Login@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:homePageTestCases.Login@55740540]" started-at="2018-10-10T05:45:15Z" name="closing" finished-at="2018-10-10T05:45:19Z" duration-ms="4092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- homePageTestCases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- LoginAndLogout -->
+</testng-results>
