@@ -1,0 +1,124 @@
+2018-10-05 18:27:38 INFO  Login:23 - before class completed
+2018-10-05 18:27:39 INFO  Login:29 - Entering to flipkart signIn page
+2018-10-05 18:27:57 INFO  Login:35 - Providing user credentials
+2018-10-05 18:27:58 INFO  Login:38 - login succesful
+2018-10-05 18:37:00 INFO  Login:23 - before class completed
+2018-10-05 18:37:00 INFO  Login:29 - Entering to flipkart signIn page
+2018-10-05 18:37:00 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-05 18:37:11 INFO  Login:35 - Providing user credentials
+2018-10-05 18:37:12 INFO  Login:38 - login succesful
+2018-10-08 11:24:18 INFO  Login:23 - before class completed
+2018-10-08 11:24:18 INFO  Login:29 - Entering to flipkart signIn page
+2018-10-08 11:24:18 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 11:24:35 INFO  Login:35 - Providing user credentials
+2018-10-08 11:24:38 INFO  Login:38 - login succesful
+2018-10-08 11:30:16 INFO  Login:23 - before class completed
+2018-10-08 11:30:16 INFO  Login:29 - Entering to flipkart signIn page
+2018-10-08 11:30:17 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 11:30:36 INFO  Login:35 - Providing user credentials
+2018-10-08 11:31:01 INFO  Login:38 - login succesful
+2018-10-08 11:56:11 INFO  Login:25 - before class completed
+2018-10-08 11:56:11 INFO  ListenersClass:39 - clickOnLoginButton started......
+2018-10-08 11:56:11 INFO  Login:31 - Entering to flipkart signIn page
+2018-10-08 11:56:11 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 11:56:28 INFO  Login:37 - Providing user credentials
+2018-10-08 11:56:59 INFO  Login:40 - login succesful
+2018-10-08 11:56:59 INFO  ListenersClass:44 - clickOnLoginButton successfully completed......
+2018-10-08 14:28:47 INFO  Login:36 - before class completed
+2018-10-08 14:30:00 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 14:30:00 INFO  Login:48 - Entering to flipkart signIn page
+2018-10-08 14:30:00 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 14:30:17 INFO  Login:54 - Providing user credentials
+2018-10-08 14:30:18 INFO  Login:57 - login succesful
+2018-10-08 14:30:18 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 14:32:00 INFO  Login:36 - before class completed
+2018-10-08 14:32:37 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 14:32:37 INFO  Login:48 - Entering to flipkart signIn page
+2018-10-08 14:32:37 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 14:33:07 INFO  Login:54 - Providing user credentials
+2018-10-08 14:33:37 INFO  Login:57 - login succesful
+2018-10-08 14:33:37 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 14:35:31 INFO  Login:37 - before class completed
+2018-10-08 14:36:03 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 14:36:03 INFO  Login:49 - Entering to flipkart signIn page
+2018-10-08 14:36:03 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 14:36:12 INFO  Login:55 - Providing user credentials
+2018-10-08 14:36:14 INFO  Login:58 - login succesful
+2018-10-08 14:36:14 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 15:11:01 INFO  Login:37 - before class completed
+2018-10-08 15:11:58 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 15:11:58 INFO  Login:49 - Entering to flipkart signIn page
+2018-10-08 15:11:58 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 15:12:09 INFO  Login:55 - Providing user credentials
+2018-10-08 15:12:17 INFO  Login:58 - login succesful
+2018-10-08 15:12:18 INFO  Login:62 -  logout successful
+2018-10-08 15:12:18 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 15:13:35 INFO  Login:37 - before class completed
+2018-10-08 15:13:56 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 15:13:56 INFO  Login:49 - Entering to flipkart signIn page
+2018-10-08 15:13:56 INFO  ClickOnLogin_SignIN:18 - in ClickOnLogin_SignIN
+2018-10-08 15:14:05 INFO  Login:55 - Providing user credentials
+2018-10-08 15:14:17 INFO  Login:58 - login succesful
+2018-10-08 15:14:26 INFO  Login:62 -  logout successful
+2018-10-08 15:14:26 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 16:40:43 INFO  Login:35 - before class completed
+2018-10-08 16:41:03 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-08 16:41:03 INFO  Login:47 - Entering to flipkart signIn page
+2018-10-08 16:41:03 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 16:42:13 INFO  Login:53 - Providing user credentials
+2018-10-08 16:42:45 INFO  Login:56 - login succesful
+2018-10-08 16:42:52 INFO  Login:60 -  logout successful
+2018-10-08 16:42:52 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
+2018-10-08 17:09:23 INFO  GettingDetailsOfProduct:39 - setuping the browser setting
+2018-10-08 17:09:55 INFO  ListenersClass:42 - gettingDetails started......
+2018-10-08 17:09:55 INFO  GettingDetailsOfProduct:49 - opening flipkart application
+2018-10-08 17:09:55 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 17:10:11 INFO  OpenFlipkart:23 - in catch block of ClickOnLogin_SignIN
+2018-10-08 17:10:11 INFO  ListenersClass:47 - gettingDetails successfully completed......
+2018-10-08 19:27:54 INFO  GettingDetailsOfProduct:40 - setuping the browser setting
+2018-10-08 19:28:29 INFO  ListenersClass:42 - gettingDetails started......
+2018-10-08 19:28:29 INFO  GettingDetailsOfProduct:50 - opening flipkart application
+2018-10-08 19:28:29 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 19:28:44 INFO  GettingDetailsOfProduct:55 - entering product details
+2018-10-08 19:28:47 INFO  ListenersClass:47 - gettingDetails successfully completed......
+2018-10-08 19:35:08 INFO  GettingDetailsOfProduct:40 - setuping the browser setting
+2018-10-08 19:36:14 INFO  ListenersClass:42 - gettingDetails started......
+2018-10-08 19:36:14 INFO  GettingDetailsOfProduct:50 - opening flipkart application
+2018-10-08 19:36:14 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 19:36:30 INFO  OpenFlipkart:23 - in catch block of ClickOnLogin_SignIN
+2018-10-08 19:36:30 INFO  GettingDetailsOfProduct:55 - entering product details
+2018-10-08 19:36:31 INFO  ListenersClass:47 - gettingDetails successfully completed......
+2018-10-08 20:18:28 INFO  GettingDetailsOfProduct:41 - setuping the browser setting
+2018-10-08 20:19:22 INFO  ListenersClass:42 - gettingDetails started......
+2018-10-08 20:19:22 INFO  GettingDetailsOfProduct:51 - opening flipkart application
+2018-10-08 20:19:22 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 20:19:29 INFO  GettingDetailsOfProduct:56 - entering product details
+2018-10-08 20:19:40 ERROR ListenersClass:32 - gettingDetails failed due to......org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[@title="Apple iPhone X (Silver, 256 GB)"]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-93O1S8M', ip: '192.168.100.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 12164, moz:profile: C:\Users\Navaneeth\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4982f6a3-bf18-4f41-8f81-7c03dc30e762
+*** Element info: {Using=xpath, value=//a[@title="Apple iPhone X (Silver, 256 GB)"]}
+2018-10-08 20:21:02 INFO  GettingDetailsOfProduct:41 - setuping the browser setting
+2018-10-08 20:21:31 INFO  ListenersClass:42 - gettingDetails started......
+2018-10-08 20:21:31 INFO  GettingDetailsOfProduct:51 - opening flipkart application
+2018-10-08 20:21:31 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-08 20:21:39 INFO  GettingDetailsOfProduct:56 - entering product details
+2018-10-08 20:21:51 ERROR ListenersClass:32 - gettingDetails failed due to......org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[@title='Apple iPhone X (Silver, 256 GB)']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-93O1S8M', ip: '192.168.100.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6196, moz:profile: C:\Users\Navaneeth\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: ace40c1f-f355-4434-b7f6-dda7d9c42d93
+*** Element info: {Using=xpath, value=//a[@title='Apple iPhone X (Silver, 256 GB)']}
+2018-10-10 11:12:45 INFO  Login:35 - before class completed
+2018-10-10 11:14:11 INFO  ListenersClass:42 - clickOnLoginButton started......
+2018-10-10 11:14:11 INFO  Login:47 - Entering to flipkart signIn page
+2018-10-10 11:14:11 INFO  OpenFlipkart:17 - in ClickOnLogin_SignIN
+2018-10-10 11:14:30 INFO  Login:53 - Providing user credentials
+2018-10-10 11:14:49 INFO  Login:56 - login succesful
+2018-10-10 11:15:14 INFO  Login:60 -  logout successful
+2018-10-10 11:15:14 INFO  ListenersClass:47 - clickOnLoginButton successfully completed......
